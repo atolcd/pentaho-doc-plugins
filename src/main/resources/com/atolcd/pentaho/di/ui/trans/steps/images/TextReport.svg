@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="42px"
+   height="42px"
+   viewBox="0 0 42 42"
+   enable-background="new 0 0 42 42"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="TextReport.svg"
+   inkscape:export-filename="D:\Documents\Developpements\Java\TextDocumentManagerPdiPlugin\src\org\pentaho\di\ui\trans\steps\images\TextReport.png"
+   inkscape:export-xdpi="68"
+   inkscape:export-ydpi="68"><metadata
+   id="metadata3190"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3188">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
+   id="namedview3186"
+   showgrid="false"
+   inkscape:zoom="19.505832"
+   inkscape:cx="3.8948744"
+   inkscape:cy="19.271782"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="text3007" />
+<polygon
+   style="fill:#3d6480"
+   id="polygon3164"
+   points="11.586,5.247 9.685,5.247 9.685,8.33 4.461,3.106 3.118,4.45 8.342,9.675 5.198,9.675 5.198,11.576 11.586,11.575 " /><path
+   style="fill:#eff9fe"
+   inkscape:connector-curvature="0"
+   id="path3166"
+   d="m 29.7,32.996 -0.058,-24.412 -10.207,0 -7.429,7.429 0,16.982 17.694,0 z"
+   sodipodi:nodetypes="ccccccc" /><polygon
+   style="fill:#3d6480"
+   id="polygon3168"
+   points="19.435,8.584 29.642,8.584 29.7,32.996 12.006,32.996 12.006,16.014 10.306,17.714 10.306,34.695 31.404,34.695 31.338,6.885 21.134,6.885 " />
+<g
+   transform="scale(1.0070418,0.99300741)"
+   style="font-size:10.26576042px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3d6480;fill-opacity:1;stroke:none;font-family:Sans"
+   id="text3001"><g
+     transform="scale(0.99300744,1.0070418)"
+     style="font-size:16.66905212px;font-style:oblique;font-weight:bold;font-family:Sans;-inkscape-font-specification:Sans Bold Oblique"
+     id="text3007"><g
+       style="font-size:19.46234894px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2995"
+       transform="translate(-17.876828,0.5126672)"><path
+         d="m 35.042328,26.466185 -3.088508,-10.092292 1.767577,0 1.606024,5.8254 0.598695,2.166707 c 0.02534,-0.107699 0.199561,-0.801425 0.522671,-2.081179 l 1.606024,-5.910928 1.758073,0 1.510993,5.85391 0.503664,1.929129 0.57969,-1.948136 1.729564,-5.834903 1.663042,0 -3.155029,10.092292 -1.77708,0 -1.606024,-6.043971 -0.389627,-1.720061 -2.043166,7.764032 z"
+         style="fill:#3d6480;fill-opacity:1"
+         id="path3000"
+         inkscape:connector-curvature="0" /></g></g></g></svg>
